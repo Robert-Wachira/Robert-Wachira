@@ -1,6 +1,7 @@
 
 <div align="center">
-<img src="https://unsplash.com/photos/v9VxGah_K2c" width="600" height="350" />
+
+  ![Alt](https://unsplash.com/photos/v9VxGah_K2c)
 </div>
 
 ### Hi there 👋. I am Robert Wachira

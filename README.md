@@ -1,8 +1,5 @@
 
-<div align="center">
-
-  ![Alt](https://unsplash.com/photos/v9VxGah_K2c)
-</div>
+![nature](https://images.unsplash.com/photo-1683752880818-a35d1f2f986e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDU2fDZzTVZqVExTa2VRfHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=1050&q=80&h=400)
 
 ### Hi there 👋. I am Robert Wachira
 

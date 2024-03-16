@@ -5,8 +5,8 @@
 
 I am a software developer currently working as a freelance developer.
 
-- :man_technologist: My current Tech Stacks are: [Node.js](https://nodejs.org/en/), [Next.js](https://nextjs.org/), [MongoDB](https://www.mongodb.com/3).
-- :man_student: I am currently learning on: [TypeScript](https://www.typescriptlang.org/), [PostgreSQL](https://www.postgresql.org/).
+- :man_technologist: My current Tech Stacks are: [Node.js](https://nodejs.org/en/), [Next.js](https://nextjs.org/), AL for Microsoft Dynamics 365 Business Central.
+- :man_student: I am currently learning on: [TypeScript](https://www.typescriptlang.org/), [PostgreSQL](https://www.postgresql.org/), [Angular.js](https://angular.io/).
 - :door: I am also looking for opportunities to improve my skills.
 - :bird: You can find me at: [@robawn](https://twitter.com/robawn)
 

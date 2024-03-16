@@ -3,7 +3,7 @@
 
 ### Hi there 👋. I am Robert Wachira
 
-I am a software developer currently working as a freelance developer.
+I am a software developer currently working as a Systems Developer using AL Language.
 
 - :man_technologist: My current Tech Stacks are: [Node.js](https://nodejs.org/en/), [Next.js](https://nextjs.org/), AL for Microsoft Dynamics 365 Business Central.
 - :man_student: I am currently learning on: [TypeScript](https://www.typescriptlang.org/), [PostgreSQL](https://www.postgresql.org/), [Angular.js](https://angular.io/).

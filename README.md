@@ -6,7 +6,7 @@
 I am a software developer currently working as a Senior Systems Developer using AL Language.
 
 - :man_technologist: My current Tech Stacks are: [Java](https://www.java.com/en/), [Node.js](https://nodejs.org/en/), [Next.js](https://nextjs.org/) and AL for Microsoft Dynamics 365 Business Central.
-- :man_student: I am currently learning on: [TypeScript](https://www.typescriptlang.org/), [PostgreSQL](https://www.postgresql.org/), [Angular.js](https://angular.io/).
+- :man_student: I am currently working on: [TypeScript](https://www.typescriptlang.org/), [PostgreSQL](https://www.postgresql.org/), [.NET](https://dotnet.microsoft.com/en-us/) using C#.
 - :door: I am also looking for opportunities to improve my skills.
 - :bird: You can find me at: [@robawn](https://twitter.com/robawn)
 
